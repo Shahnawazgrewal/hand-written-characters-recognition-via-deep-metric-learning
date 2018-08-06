@@ -11,7 +11,7 @@ Urdu-Characters is created in a similar way as MNIST dataset.
 <img src='images/dataset.jpg'/>
 
 # Contact
-Please contact for any questions/queries: snawaz@unisubria.it
+Please contact for any questions/queries: snawaz@uninsubria.it 
 # Citation
 If you use the dataset and/or the code, consider citing the paper: 
 ```
